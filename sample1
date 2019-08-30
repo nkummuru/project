@@ -1,0 +1,7 @@
+touch file1
+ls -ltr
+clear
+git status
+git add file1
+git status
+git commit -m "add file1"
